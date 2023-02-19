@@ -7,6 +7,11 @@ public class Car {
         this.wheels = wheels;
         this.cylinders = cylinders;
     }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> auxcarlos
 
     public boolean isWheels() {
         return wheels;
@@ -28,4 +33,8 @@ public class Car {
     public String toString() {
         return "Wheels: " + wheels + "cylinders: " + cylinders + "\n";
     }
+<<<<<<< HEAD
+=======
+>>>>>>> e92731b (add cars toString and print)
+>>>>>>> auxcarlos
 }
